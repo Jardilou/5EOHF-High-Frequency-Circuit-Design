@@ -2,7 +2,7 @@
 INVERTED F ANTENNA DESIGN
 
 This design models an inverted F antenna (IFA) on a dielectric substrate for a 868 MHz LoRa application.
-Based on Texas Instruments Design Note DN023: https://www.ti.com/lit/an/swra228c/swra228c.pdf
+Based on Texas Instruments Design Note DN024: https://www.ti.com/lit/an/swra227e/swra227e.pdf?ts=1763894525193
 
 
 """
@@ -190,3 +190,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
